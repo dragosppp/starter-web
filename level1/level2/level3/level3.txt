@@ -1,6 +1,0 @@
-3333333333333333333333
-
-
-
-Try as I might, I was not able to get either Notepad++, or Notepad++ Portable to work for me in this situation. Notepad++ displayed my initial problem of permanently changing my settings to those set from my .gitconfig.
-

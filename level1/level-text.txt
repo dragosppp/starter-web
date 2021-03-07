@@ -1,7 +1,0 @@
-
-
-Try as I might, I was not able to get either Notepad++, or Notepad++ Portable to work for me in this situation. Notepad++ displayed my initial problem of permanently changing my settings to those set from my .gitconfig.
-
-I was also unable to get Notepad++ Portable (http://sourceforge.net/projects/notepadpluspe/) to work as this requires Administrative privileges to run and therefore prompts for UAC every time it launches, which I see as a deal killer.
-
-I ended up using the portable version of Sublime Text 2 (http://www.sublimetext.com/2) as my editor for git, which though it doesn't answer my initial question, was my resolution.
